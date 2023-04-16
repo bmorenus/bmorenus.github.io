@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['gameobject_0',['GameObject',['../class_game_object.html',1,'GameObject'],['../class_game_object.html#a704e0c69ec99952aed9d6273d7d03f18',1,'GameObject::GameObject()']]],
+  ['gameobject_2ehpp_1',['GameObject.hpp',['../_game_object_8hpp.html',1,'']]],
+  ['getcharactercreators_2',['GetCharacterCreators',['../class_scene_manager.html#a9ee8078333bd49d768de20b3459488b6',1,'SceneManager']]],
+  ['getcollisiondirections_3',['GetCollisionDirections',['../class_game_object.html#a5c4f89118fe75d00a7256b3ad18f508d',1,'GameObject::GetCollisionDirections()'],['../class_physics_manager.html#a499776e4a7034e910476620424968d31',1,'PhysicsManager::GetCollisionDirections()']]],
+  ['getcols_4',['GetCols',['../class_tile_map.html#ad048e4d4269719f5f6a4a1f3e0d96c7e',1,'TileMap']]],
+  ['getevents_5',['GetEvents',['../class_game_object.html#a27dc88b59d80c57d4f6cffd2f8289b9b',1,'GameObject']]],
+  ['getframe_6',['GetFrame',['../class_game_object.html#a93a27746583c93fc9ad45880e57a3f2b',1,'GameObject']]],
+  ['getheight_7',['GetHeight',['../class_game_object.html#a2a030d1b4a0f446382584b84d9198c69',1,'GameObject']]],
+  ['getinstance_8',['GetInstance',['../class_file_manager.html#a46d5efb80d08535afaac439fefff8d8f',1,'FileManager::GetInstance()'],['../class_physics_manager.html#ad9acfdbad2931f6ddd907e4068df12bc',1,'PhysicsManager::GetInstance()'],['../class_resource_manager.html#acb3f8ecc7b3de8c1c7ac956ce5114d47',1,'ResourceManager::GetInstance()'],['../class_scene_manager.html#a2f8148c8b2d4a4f18bdb7309bb32fc45',1,'SceneManager::GetInstance()']]],
+  ['getisdeleted_9',['GetIsDeleted',['../class_game_object.html#aeb2963ff0498a223bb8fd992a355e952',1,'GameObject']]],
+  ['getnumberofcoins_10',['GetNumberOfCoins',['../class_scene_manager.html#aa7bd1d399919582682511f83c95d575a',1,'SceneManager']]],
+  ['getobjecttype_11',['GetObjectType',['../class_game_object.html#a5b6ad49d29b56a8c3bdf6b0d89a2e677',1,'GameObject']]],
+  ['getresource_12',['GetResource',['../class_resource_manager.html#ada560848030560050dfc12a23f7893a1',1,'ResourceManager']]],
+  ['getrows_13',['GetRows',['../class_tile_map.html#aa2b6c0ea12c3a0b37c9f432465e13571',1,'TileMap']]],
+  ['getsequence_14',['GetSequence',['../class_game_object.html#a3f5a27c790a50f2c8e8588ed6892246b',1,'GameObject']]],
+  ['getspeed_15',['GetSpeed',['../class_game_object.html#a79516bd234b958e6563ac60088c443f1',1,'GameObject']]],
+  ['gettag_16',['GetTag',['../class_game_object.html#aa05abe92cadd82ce5db2fa3459a148a7',1,'GameObject']]],
+  ['gettilecreators_17',['GetTileCreators',['../class_scene_manager.html#accfc0d469a1aa504d0efa5e2af843e55',1,'SceneManager']]],
+  ['gettileheight_18',['GetTileHeight',['../class_tile_map.html#a84e65143c0e930723822966a2cc82fa3',1,'TileMap']]],
+  ['gettilewidth_19',['GetTileWidth',['../class_tile_map.html#a28329a06a8db9c8c5795ec436977fdf3',1,'TileMap']]],
+  ['getwidth_20',['GetWidth',['../class_game_object.html#a92eac126a91cf9301201d1426eceda0f',1,'GameObject']]],
+  ['getx_21',['GetX',['../class_game_object.html#af86d372ea98f01c98011b0592682204f',1,'GameObject']]],
+  ['getxvelocity_22',['GetXVelocity',['../class_game_object.html#a5e65c4958a5f232f09b8b2a5d20ed2ef',1,'GameObject']]],
+  ['gety_23',['GetY',['../class_game_object.html#af787c463aed94b44dc321ae9be518c5a',1,'GameObject']]],
+  ['getyvelocity_24',['GetYVelocity',['../class_game_object.html#ab6a2806ab922755f4fd227a084840c98',1,'GameObject']]]
+];
