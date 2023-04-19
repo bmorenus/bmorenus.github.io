@@ -45,6 +45,14 @@ body {
 <img src="./images/engineDesign.png" alt="Game Engine Design" height=600 width=900>
 </center>
 
+<center>
+<h2>Post-Mortem</h2>
+<p>If our team had an additional 8 weeks to work on the project we would first prioritize building out additional APIs through Pybind to better enable scripting for game development. We would also look to integrate scripting with Pybind to add scripting capability for individual components. Adding scripting would allow developers to more quickly build unique behaviors for Transform Components, Collision Components, and Input Components whose implementation can vary dramatically between different game objects and often require different implementations without the ability to add such scripting.</p>
+
+<p>An additional tool that we would add to the game engine is a sprite editor that could more quickly cut out sequences of frames from a sprite sheet, place them in sequences, and apply those sequences to different game movements. Currently, our game engine directly copies the individual frames and creates the relevant sequences during engine startup that allow the main character to move with animation. This tool would remove the guesswork of identifying where the correct x/y pixels are for cutting frames, and allow users to quickly build their animation sequences for movement. We could also more easily add fighting animation with such a tool that would allow us to introduce combat scenes for the character against enemies.</p>
+
+<p>Finally, in order to increase the difficulty associated with our game we would add enemies that could use a basic AI to find the main character and attempt to attack him when he is within range of them. Implementing a basic homing algorithm would likely not require too much work and with the assistance of a sprite animation tool as described above, we could more quicly build in combat animations for the enemies as well. Overall, the initial development process for our game allowed us to hit the key components of a game engine and we think we can build upon these foundations to add the more advanced tools and techniques discussed.</p>
+</center>
 <br>
 <br>
 <center>
